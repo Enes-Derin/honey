@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: bisque;
+
+}
+.boncuk-gözlüm{
+    font-size: xx-large;
+    font-weight: 800;
+    color: chocolate;
+
+}
+.love{
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.img-1{
+    border-radius: 20%; 
+}
+.galerimiz{
+    font-weight: 600;
+    border-bottom: 2px dotted black;
+}
+.video{
+    font-weight: 600;
+    border-bottom: 2px dotted black;
+}
+.aşkımız{
+    background-image: url(img/images.jpeg);
+}
+
+
